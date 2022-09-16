@@ -17,7 +17,7 @@
     "dotenv": "^16.0.1",
     "graphql": "^16.5.0",
     "jsonwebtoken": "^8.5.1",
-    "pg": "^8.7.3",
+    "pg": "^8.8.0",
     "simple-sms-sender": "^0.1.1",
     "twilio": "^3.80.0"
   },
